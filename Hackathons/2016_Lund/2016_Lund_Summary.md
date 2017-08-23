@@ -1,4 +1,12 @@
 # OpenHack 2-4/12 2016 in Lund
+Our secound round of OpenHack took place in Lund at the innovation hub Ideon. Having the venu next to the university led to a big part of our attendees were students from LTH, but not limited to.
+
+We had nine challenges presented by a wide range of different organisations with the overall focus on crise management and information sharing. This year we also intoduced challenges on a local level from the Swedish Employment Agency and Futurion in which found important. All the case-contributors were on sight to presnt there challenges and were avalable through out the hack, except for Huridocs who were with us from Southy Korea. On site we also had representatives from our sponsor to act as coches and assist in everything from project management to big-data analytics. 
+
+Through out the hack our lovely Stream-Team were live 24/7 and streamed the entire hack with interviews, discussions, hacking-competitions and tons of other fun. Here you may take a quick 2 min sneak peak into the 48-hours https://www.youtube.com/watch?v=4bWq2tL3gTM
+
+After 48 intense hours 12 teams presented their achievements in-front of a diverse and competent jury. The solutions proposals and prototypes ranged from mockups to functional apps. One of our winning teams, JobSweepers, later on got invited to present at a seminar in Stockholm by Futurion: "Så knäckte vi koden" (https://www.youtube.com/watch?v=mZs4dafgnwE) and an other team, Data-Universe, represented at Almedalen in House of Hack. 
+
 
 ## Challenges
 * [ActionAid](../Challenges/ActionAid_2016.md) - New digital means of engagement with ActionAid on issues of solidarity and social justice!
