@@ -1,5 +1,5 @@
 # OpenHack 2-4/12 2016 in Lund
-
+TEST
 ## Challenges
 * [ActionAid](../Challenges/ActionAid_2016.md) - New digital means of engagement with ActionAid on issues of solidarity and social justice!
 * [BIGHEART](../Challenges/BigHeart_2016.md) - A universal framework for charity organizations to report back to their individual donors with information on how their money was used and what results it gave.
